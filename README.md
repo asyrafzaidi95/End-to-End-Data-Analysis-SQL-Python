@@ -8,7 +8,7 @@ Welcome to my data analysis portfolio! This repository showcases end-to-end data
 ## 🧰 Tools & Technologies
 
 - **SQL** – Data querying, cleaning, and transformation
-- **Python (Pandas, NumPy, Matplotlib, Seaborn)** – Data manipulation and visualization
+- **Python (Pandas, NumPy, Matplotlib)** – Data manipulation and visualization
 - **Jupyter Notebook** – Interactive analysis environment
 
 ---
@@ -17,7 +17,7 @@ Welcome to my data analysis portfolio! This repository showcases end-to-end data
 
 | Project Name                 | Description                                                                                         | Tools Used         | 
 |-----------------------------|-----------------------------------------------------------------------------------------------------|--------------------|
-| **Walmart Sales Data Analysis** | This project presents an end-to-end data analysis workflow using SQL Server for data querying and transformation, and Python (Pandas, Matplotlib, Seaborn) for advanced analysis and visualization. The dataset contains sales records from Walmart branches and helps uncover business insights such as customer trends, peak hours, product performance, and revenue patterns | Python, SQL  
+| **Walmart Sales Data Analysis** | This project presents an end-to-end data analysis workflow using SQL Server for data querying and transformation, and Python (Pandas, Matplotlib) for advanced analysis and visualization. The dataset contains sales records from Walmart branches and helps uncover business insights such as customer trends, peak hours, product performance, and revenue patterns | Python, SQL  
 
 
 ---
@@ -26,6 +26,6 @@ Welcome to my data analysis portfolio! This repository showcases end-to-end data
 
 - SQL-based data extraction and cleaning
 - Python for EDA (Exploratory Data Analysis)
-- Visualization techniques with Matplotlib/Seaborn
+- Visualization techniques with Matplotlib
 - Creating meaningful insights for business decisions
 
