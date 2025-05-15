@@ -22,7 +22,7 @@ Welcome to my data analysis portfolio! This repository showcases end-to-end data
 
 ---
 
-## 🧠 What You’ll Learn
+## 🧠 What I Learn
 
 - SQL-based data extraction and cleaning
 - Python for EDA (Exploratory Data Analysis)
